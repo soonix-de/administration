@@ -26,7 +26,7 @@ If you see an error or have an issue with any of the content in this
 resource please write an email to the listserv, and one of the
 existing maintainers or contributors will any required modification.
 
-.. _github: http://github.com/cyborginstitute/cyborg-admin
+.. _github: http://github.com/cyborginstitute/administration
 .. _listserv: http://lists.cyborginstitute.net/listinfo/institute
 
 Resources
@@ -40,7 +40,7 @@ The `Cyborg Institute`_ Site.
    resources.
 
 The `Cyborg Institute Git Repositories`_
-   `git.cyborginstitute.net`_ is the conical source for all Cyborg
+   `git.cyborginstitute.net`_ is the canonical source for all Cyborg
    Institute project repositories and resources.
 
 `Cyborg Institute Hosted Listservs`_
@@ -56,7 +56,7 @@ The `Cyborg Institute Git Hub`_
    Until proper issue tracking systems are available for Cyborg
    Institute projects, please
 
-.. _Cyborg Institute: http://cyborginstitue.com/
+.. _Cyborg Institute: http://cyborginstitute.com/
 .. _Cyborg Institute Git Repositories: http://git.cyborginstitute.net/
 .. _git.cyborginstitute.net: http://git.cyborginstitute.net/
 .. _Cyborg Institute Hosted Listservs: http://lists.cyborginstitute.net/listinfo/institute
